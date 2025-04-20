@@ -1,73 +1,61 @@
-# Welcome to your Lovable project
+🍽️ Bistro Crumble Glow
+✨ Live Site
+🔗 URL: https://bistro-crumble-glow.vercel.app
 
-## Project info
+📁 Project Overview
+Bistro Crumble Glow is a beautifully crafted web app built with modern technologies to showcase stunning UI and seamless UX. Whether you're exploring the design or modifying features, this project is flexible and developer-friendly.
 
-**URL**: https://lovable.dev/projects/8cc4f3eb-8889-4182-9e8a-fe977c8e5558
+🧑‍💻 How to Run Locally
+To work with this project locally, make sure you have Node.js and npm installed. You can install Node using nvm (Node Version Manager).
 
-## How can I edit this code?
+🔧 Steps:
+bash
+Copy
+Edit
+# 1️⃣ Clone the repository
+git clone https://github.com/Tahsin37/BistroCrumbleGlow.git
 
-There are several ways of editing your application.
+# 2️⃣ Navigate to the project folder
+cd BistroCrumbleGlow
 
-**Use Lovable**
+# 3️⃣ Install dependencies
+npm install
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/8cc4f3eb-8889-4182-9e8a-fe977c8e5558) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 4️⃣ Start the development server
 npm run dev
-```
+The app will start on http://localhost:5173 (default Vite port).
 
-**Edit a file directly in GitHub**
+📝 Editing the Code
+You can modify the code using any of the following methods:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+✔️ Use Your Preferred IDE
+Clone the repo as shown above.
 
-**Use GitHub Codespaces**
+Open the folder in VS Code, WebStorm, or any editor you like.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Make changes, commit, and push to update.
 
-## What technologies are used for this project?
+✔️ Edit Directly on GitHub
+Browse to the desired file in the GitHub repo.
 
-This project is built with:
+Click the ✏️ Edit button (top-right).
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Make your changes and commit.
 
-## How can I deploy this project?
+✔️ Use GitHub Codespaces (no setup required)
+Go to your GitHub repo.
 
-Simply open [Lovable](https://lovable.dev/projects/8cc4f3eb-8889-4182-9e8a-fe977c8e5558) and click on Share -> Publish.
+Click the Code button and open the Codespaces tab.
 
-## Can I connect a custom domain to my Lovable project?
+Create a new Codespace and start coding instantly in the cloud.
 
-Yes, you can!
+🛠️ Built With
+⚡️ Vite – blazing fast build tool
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+⚛️ React – component-based UI
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+🟦 TypeScript – safer JavaScript
+
+🎨 Tailwind CSS – utility-first styling
+
+🧩 shadcn/ui – beautiful, accessible UI components
